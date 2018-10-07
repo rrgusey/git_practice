@@ -6,3 +6,7 @@ mean_dataset
 
 #added median
 median_dataset <- median(dataset)
+
+# this is maysa adding stuff
+name <- "maysa"
+ifelse(name=="maysa", 1, 0)
